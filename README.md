@@ -9,6 +9,10 @@ Comando: yarn dev
 
 Para executar os testes:
 
-Comando: yarn playwright test tasks 
+Comando: 
 
-Para debugar: yarn playwright test tasks --debug
+yarn playwright test tasks 
+
+Para debugar: 
+
+yarn playwright test tasks --debug
