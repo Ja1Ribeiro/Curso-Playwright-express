@@ -1,0 +1,22 @@
+{
+    "sucess": {
+        "name": "Data Sucess",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Data Duplicate",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update":{
+        "name": "Data Update",
+        "is_done": false
+    },
+    "delete":{
+        "name": "Data Delete",
+        "is_done": false
+    }
+}
